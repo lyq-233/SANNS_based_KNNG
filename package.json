@@ -1,0 +1,16 @@
+{
+  "name": "sanns",
+  "version": "1.0.0",
+  "description": "secure nearest neighbor",
+  "main": "snn-knng.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gaussian": "^1.2.0",
+    "lodash": "^4.17.21"
+  }
+}
